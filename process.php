@@ -13,7 +13,7 @@
 
 <?php
 session_start();
-require "helpers/logs.php";
+require "log_libs/logs.php";
 
 if($_POST) {
 
